@@ -23,7 +23,10 @@
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-hipchat": "^2.6.4-2",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "nodepie": "0.5.3"
+    "nodepie": "0.5.3",
+    "underscore": "1.6.0",
+    "moment": "2.6.0",
+    "aws2js": "0.8.3"
   },
   "engines": {
     "node": ">= 0.8.x",
