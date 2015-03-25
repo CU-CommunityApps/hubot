@@ -129,6 +129,7 @@ Please check out the [deploying hubot onto UNIX][deploy-unix] and
 
 ## Campfire Variables
 
+
 If you are using the Campfire adapter you will need to set some environment
 variables. Refer to the documentation for other adapters and the configuraiton
 of those, links to the adapters can be found on [Hubot Adapters][hubot-adapters].
